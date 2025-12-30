@@ -8,4 +8,9 @@ Fehler in den Skripten behoben.
 
 Sollte es Neuerungen geben, die nicht im Buch enthalten sind, werden Sie hier dann auch Hinweise und Ergänzungen finden.
 
+############################### ACHTUNG #########################
 
+Das Repository mit den Listings ist jetzt auf codeberg.org zu finden. Clone des Repositories jetzt mit
+
+
+git clone https://www.codeberg.org/stka/openldap-in-der-praxis
