@@ -1,4 +1,0 @@
-dn: cn=praktikant,ou=users,ou=firma,dc=example,dc=net
-changetype: modify
-replace: entryTtl
-entryTtl: 300

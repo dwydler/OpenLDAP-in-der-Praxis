@@ -1,5 +1,0 @@
-dn: cn=demouser,ou=users,ou=firma,dc=example,dc=net
-objectClass: inetOrgPerson
-cn: demouser
-sn: User
-givenName: Demo

@@ -1,9 +1,0 @@
-dn: olcOverlay=syncprov,olcDatabase={2}mdb,cn=config
-changetype: add
-objectClass: olcSyncProvConfig
-objectClass: olcOverlayConfig
-olcOverlay: syncprov
-olcSpCheckPoint: 1 5
-olcSpSessionlog: 100
-olcSpNoPresent: FALSE
-olcSpReloadHint: FALSE

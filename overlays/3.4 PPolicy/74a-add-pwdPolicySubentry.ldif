@@ -1,5 +1,0 @@
-dn: cn=prod-al,ou=users,ou=produktion,ou=firma,dc=example,dc=net
-changetype: modify
-add: pwdPolicySubentry
-pwdPolicySubentry: cn=special,ou=policies,ou=firma,dc=example,dc=net
-

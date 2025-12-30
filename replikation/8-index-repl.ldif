@@ -1,4 +1,0 @@
-dn: olcDatabase={2}mdb,cn=config
-changetype: modify
-add: olcDbIndex
-olcDbIndex: entryUUID,entryCSN eq

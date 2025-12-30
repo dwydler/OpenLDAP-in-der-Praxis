@@ -1,4 +1,0 @@
-dn: cn=redakteur,ou=redakteure,ou=firma,dc=example,dc=net
-changetype: modify
-add: mail
-mail: redakteur@hanser.de

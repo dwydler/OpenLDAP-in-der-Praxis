@@ -1,9 +1,0 @@
-dn: olcOverlay=remoteauth,olcDatabase={2}mdb,cn=config
-objectClass: olcOverlayConfig
-objectClass: olcRemoteAuthCfg
-olcOverlay: remoteauth
-olcRemoteAuthDNAttribute: seeAlso
-olcRemoteAuthDomainAttribute: o
-olcRemoteAuthDefaultDomain: remote
-olcRemoteAuthMapping: consulting provider01.consulting.de
-olcRemoteAuthMapping: remote provider01.remote.net
